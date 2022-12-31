@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-PREFIX = os.environ['PREFIX']
+PREFIX = os.environ['읏추야 ']
 TOKEN = os.environ['TOKEN']
 
 client = discord.Client()
