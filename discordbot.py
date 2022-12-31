@@ -1,3 +1,4 @@
+import discord
 from cmath import log
 from distutils.sysconfig import PREFIX
 from dotenv import load_dotenv
