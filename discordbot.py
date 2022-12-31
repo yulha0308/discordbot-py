@@ -10,7 +10,6 @@ load_dotenv()
 PREFIX = os.environ['PREFIX']
 TOKEN = os.environ['TOKEN']
 
-client = discord.Client()
 intents=discord.Intents.default()
 intents.message_content=True
 
