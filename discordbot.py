@@ -20,7 +20,7 @@ async def on_ready():
     
 @bot.command()
 async def 고정링크(ctx):
-  await ctx.send('https://discord.gg/z9Za2WW6AK%27.format(ctx.author.mention))
+  await ctx.send('https://discord.gg/z9Za2WW6AK%27')
                  
 role='멤버'
 
